@@ -3,23 +3,24 @@ main:
   - title: "About me"
     url: /about_me/
    
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/ redirect to google scholar
 
-  - title: ""
-    url: /talks/    
+  # - title: ""
+  #   url: /talks/    
 
-  - title: ""
-    url: /teaching/    
+  # - title: ""
+  #   url: /teaching/    
     
-  - title: ""
-    url: /portfolio/
+  # - title: ""
+  #   url: /portfolio/
         
-  - title: ""
-    url: /year-archive/
+  # - title: ""
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
     
-  - title: ""
-    url: /markdown/
+  # - title: ""
+  #   url: /markdown/
