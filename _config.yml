@@ -27,7 +27,7 @@ author:
   bio              : "I am a PhD student at the Technical University of Munich, working on LLMs."
   location         : "Heilbronn, Germany" # Location of the author, used in the sidebar and footer
   employer         : "Technical University of Munich "
-  uri              : # URL
+  uri              : "https://www.tum.de/"
   email            : "tsedeniya.temesgen@tum.de" 
 
   # Academic websites
