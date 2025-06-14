@@ -1,6 +1,6 @@
 ---
-layout: home
 title: "Hello, I am Tsedi"
+author_profile: true
 permalink: /
 ---
 
