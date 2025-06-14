@@ -26,8 +26,8 @@ author:
   pronouns         : "she/her"  
   bio              : "I am a PhD student at the Technical University of Munich, researching linguistic information in LLMs for low-resource languages."
   location         : "Heilbronn, Germany" # Location of the author, used in the sidebar and footer
-  employer         : "Technical University of Munich "
-  uri              : "https://www.tum.de/"
+  employer         : "[Technical University of Munich](https://www.tum.de/)"
+  uri              : #URL
   email            : "tsedeniya.temesgen@tum.de" 
 
   # Academic websites
