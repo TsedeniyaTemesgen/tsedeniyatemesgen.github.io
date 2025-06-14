@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Tsedeniya Temesgen" # Name of the author, used in the sidebar and footer
   pronouns         : "she/her"  
-  bio              : "I am a PhD student at the Technical University of Munich, working on LLMs."
+  bio              : "I am a PhD student at the Technical University of Munich, researching linguistic information in LLMs for low-resource languages."
   location         : "Heilbronn, Germany" # Location of the author, used in the sidebar and footer
   employer         : "Technical University of Munich "
   uri              : "https://www.tum.de/"
