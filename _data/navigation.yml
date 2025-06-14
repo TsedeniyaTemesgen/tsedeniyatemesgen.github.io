@@ -20,7 +20,7 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: files/CV_phd_updated.pdf
+    url: /files/CV_phd_updated.pdf
 
     
   # - title: ""
