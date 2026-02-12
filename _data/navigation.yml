@@ -3,8 +3,8 @@ main:
   - title: "About me"
     url: /
    
-  # - title: "Publications"
-  #   url: /publications/ redirect to google scholar
+  - title: "Publications"
+    url: /publications/
 
   # - title: ""
   #   url: /talks/    
